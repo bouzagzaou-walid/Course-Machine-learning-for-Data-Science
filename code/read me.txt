@@ -1,0 +1,2 @@
+to open the files in jupyter notebook watch this 40 seconds video:
+https://www.youtube.com/watch?v=JId0f7URtOQ
